@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  background-color: #DCDCDC;
+}
+
+.AlphaNumeric {
+  text-align: center;
+  margin-top: 14%;
+  background-color: white;
+  margin-left: 35%;
+  margin-right: 35%;
+  padding: 5% 0; 
+}
+
+.correct{
+    color: rgb(62, 196, 62);
+}
+.wrong{
+    color: tomato;
+}
+
+span{
+    font-size: 20px;
+    color: rgb(62, 196, 62);
+    font-weight: bold;
+}
+
+
